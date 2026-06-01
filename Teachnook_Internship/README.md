@@ -1,44 +1,27 @@
-<div align="center">
-  <h1 align="center">Teachnook Internship</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/Internships">Internships</a> Repository</strong>
-  </p>
-</div>
+# Teachnook Internship
 
----
+Part of [`Internships`](https://github.com/CoderFatherBB/Internships) at `Teachnook_Internship`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Teachnook Internship** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Teachnook Internship` stores model files, model code, weights, or related machine learning assets.
 
+## Contents
 
+- `Assihnment_1.py`: Python script.
+- `Countdown_Timer.py`: Python script.
+- `DS-MINOR-SEPTEMBER.pdf`: documentation artifact.
+- `Iris_Dataset_using_KNN_Model.pdf`: documentation artifact.
+- `Teachnooks_Course_Completion.jpg`: media asset.
+- `Teachnooks_Internship_Completion.jpg`: media asset.
 
----
+## Use
 
-## 🚀 Getting Started
+Run the relevant Python script from this folder after checking any required inputs, datasets, or environment variables.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "Teachnook_Internship"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
